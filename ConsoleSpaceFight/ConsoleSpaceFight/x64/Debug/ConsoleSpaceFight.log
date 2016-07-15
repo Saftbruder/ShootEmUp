@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\1-stuffe\programmieren\projekta\consolespacefight\consolespacefight\src\main.cpp(83): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\1-stuffe\programmieren\projekta\consolespacefight\consolespacefight\src\main.cpp(85): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleSpaceFight.vcxproj -> D:\1-Stuffe\Programmieren\ProjektA\ConsoleSpaceFight\x64\Debug\ConsoleSpaceFight.exe
+  ConsoleSpaceFight.vcxproj -> D:\1-Stuffe\Programmieren\ProjektA\ConsoleSpaceFight\x64\Debug\ConsoleSpaceFight.pdb (Partial PDB)
